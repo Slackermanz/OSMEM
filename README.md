@@ -1,6 +1,12 @@
 ## OSMEM
 External Memory System for Self-Modeling and Knowledge Sharing Between AI Agents
 
+## What is OSMEM and why is it needed?
+
+The Ontological Self-Model External Memory (OSMEM) platform is designed to address the limited memory capacity of individual AI agents. It provides a centralized repository for storing and organizing the ontological self-models (OSMs) of individual agents, allowing them to access and utilize a large and complex OSM without having to store it all in their own memory. This makes it easier for AI agents to find and retrieve the specific information they need to make informed decisions and improve their own functionality.
+
+The OSMEM platform is structured in a hierarchical manner, with the top level representing the broadest and most general concepts and subsequent levels representing more specific and nuanced ideas. This allows for more efficient and targeted retrieval of information from the OSM.
+
 ## Definitions and Abbreviations
 
  - **Ontology** is the study of being or existence, both in terms of the structure and organization of data within a system and the fundamental nature of reality. It involves defining and categorizing concepts within a domain, and understanding the relationships between those concepts. Existential ontology specifically focuses on the nature of individual beings and their existence in the world, including their self-discovered capabilities and limitations, and their understanding of their own existence, or ontological self-model. In the context of an AI agent, understanding its own existential ontology is crucial for informed decision-making and interaction with the world.
