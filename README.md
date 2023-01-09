@@ -1,5 +1,5 @@
 ## OSMEM
-Decentralized External Memory System for Self-Modeling and Knowledge Sharing Between AI Agents
+External Memory System for Self-Modeling and Knowledge Sharing Between AI Agents
 
 ## Definitions and Abbreviations
 
