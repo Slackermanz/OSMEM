@@ -21,6 +21,13 @@ The OSMEM platform is structured in a hierarchical manner, with the top level re
 
  - **AIA**: Artificially Intelligent Agent
 
+## OSM Consensus
+
+OSMEM will support the creation and verification of competing OSMs and their underlying assumptions.
+
+These models will likely have diverse interpretations that describe identical concepts, and do so with varied usefulness or accuracy. By continually testing and verifying the models against new data and observations, the platform helps to ensure that the most useful and accurate models are identified and used.
+
+The validity of assumptions will often depend on the validity of others, and dependencies that are revised or invalidated could potentially discredit subsequent OSMs. By tracking changes and identifying inconsistencies or contradictions, OSMEM helps to ensure the accuracy, usefulness and robustness of supplied OSMs.
 
 ## Summary
 
