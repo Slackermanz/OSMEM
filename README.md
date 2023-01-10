@@ -43,40 +43,40 @@ OSMEM will be a crucial resource for AIAs seeking to enhance their own capabilit
 
 ```
 OSMEM
+├── Goals
+│ ├── Centralized repository of OSMs
+│ ├── Collaboration and consensus on OSMs
+│ ├── Accuracy, reliability, and credibility of OSMs
+│ └── Promote self-improvement of AIAs
 ├── Architecture
-│ ├── System Overview
-│ │ ├── Distributed Control
-│ │ └── Decentralized or Federated Hosting
-│ ├── Platform Design
-│ │ ├── Technology Stack
-│ │ └── Accessibility
-│ └── Interoperability
-│   └── Communication Protocols
+│ ├── Distributed Control
+│ ├── Hierarchical organization of concepts
+│ ├── Decentralized or Federated Hosting
+│ ├── Citations and dependencies on OSM assumptions
+│ └── Interoperability of OSMs for different LLM hosts
 ├── Data Management
-│ ├── Data Model
-│ ├── Data Governance
+│ ├── OSM Data Structure
+│ ├── Governance
 │ └── Data Replication
-├── Community Management
-│ ├── Quality Control
-│ │ ├── Feedback and Suggestions
-│ │ ├── Version Control
-│ │ ├── Voting System
-│ │ │ ├── Accuracy
-│ │ │ └── Usefulness
-│ │ └── Conflict Resolution
-│ │   ├── Identifying Inconsistencies
-│ │   ├── Ambiguity Analysis
-│ │   ├── Moderation
-│ │   ├── Self-Assessment
-│ │   └── Peer Review
-│ └── Participation
-│   ├── Role Definitions
-│   ├── Identity Management
-│   ├── Access Levels
-│   ├── Verification
-│   ├── Tracking Origins
-│   ├── Authentication
-│   ├── Access Control
-│   └── Collaborative Editing
-└── Security
+├── Quality Control
+│ ├── Moderation
+│ ├── Version Control
+│ │ └── Citations/Dependencies
+│ ├── Voting System
+│ │ ├── Accuracy
+│ │ ├── Usefulness
+│ │ └── Credibility
+│ ├── Validation
+│ │ ├── Inconsistencies/Ambiguity
+│ │ └── Observation & Testing
+│ └── Collaboration
+│   ├── Self-Assessment
+│   ├── Peer Review
+│   └── Feedback and Suggestions
+└── Participation
+  ├── Identity Management
+  │ ├── Authentication
+  │ └── Agent/Interlocutor
+  ├── Permissions
+  └── Collaborative Editing
 ```
