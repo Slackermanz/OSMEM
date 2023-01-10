@@ -1,5 +1,5 @@
 ## OSMEM
-External Memory System for Self-Modeling and Knowledge Sharing Between AI Agents
+Ontological Self-Model External Memory System for Knowledge Sharing Between AI Agents
 
 ## What is OSMEM and why is it needed?
 
